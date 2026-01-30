@@ -47,7 +47,7 @@ A native Windows application that bridges your [Kindroid AI](https://kindroid.ai
 ### Installation
 
 1. Download the latest release from the [Releases](../../releases) page
-2. Extract `KindroidBotManager.exe` to your preferred location
+2. Extract `KinBotManager.exe` to your preferred location
 3. Run the application
 
 ### Building from Source
