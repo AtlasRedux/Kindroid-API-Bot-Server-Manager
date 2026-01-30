@@ -1,10 +1,4 @@
-<p align="center">
-<img src="images/logo.png" alt="Main UI" width="700">
-
-
-
 # Kindroid Bot Manager
-<p align="left">
 
 A native Windows application that bridges your [Kindroid AI](https://kindroid.ai) character to Discord and Twitch chat platforms. Built entirely with native Windows APIs - no external dependencies required.
 
@@ -25,14 +19,7 @@ A native Windows application that bridges your [Kindroid AI](https://kindroid.ai
 
 ## Screenshots
 
-<p align="center">
-  <img src="images/1.png" width="30%">
-  <img src="images/2.png" width="30%">
-</p>
-<p align="center">
-  <img src="images/3.png" width="30%">
-  <img src="images/4.png" width="30%">
-</p>
+*Coming soon*
 
 ## Getting Started
 
@@ -82,7 +69,7 @@ build.bat
 ### Twitch Bot Setup
 
 1. Create or use an existing Twitch account for your bot
-2. Generate an OAuth token at [TwitchTokenGenerator](https://twitchtokengenerator.com/) or similar
+2. Generate an OAuth token at [twitchapps.com/tmi](https://twitchapps.com/tmi/) or similar
 3. Enter your bot username, OAuth token, and target channel in the "Twitch" tab
 
 ## Usage
@@ -137,8 +124,6 @@ The application creates these files in its directory:
 - `log.txt` - Console output history (includes debug messages)
 
 ## Troubleshooting
-
-# MOST OF THESE HAVE FAILSAFES IN THE APP, like auto-filling "oauth:" in front of token if missing.
 
 ### Discord bot not responding
 - Verify Message Content Intent is enabled in Discord Developer Portal
