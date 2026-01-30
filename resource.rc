@@ -1,0 +1,3 @@
+// Resource file for Kindroid API/Bot Manager
+// The icon with ID 1 (lowest) becomes the app icon shown in Explorer
+1 ICON "app.ico"
