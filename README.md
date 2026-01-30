@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.png" width="50%">
+</p>
+
 # Kindroid Bot Manager
 
 A native Windows application that bridges your [Kindroid AI](https://kindroid.ai) character to Discord and Twitch chat platforms. Built entirely with native Windows APIs - no external dependencies required.
@@ -19,7 +23,14 @@ A native Windows application that bridges your [Kindroid AI](https://kindroid.ai
 
 ## Screenshots
 
-*Coming soon*
+<p align="center">
+  <img src="images/1.png" width="30%">
+  <img src="images/2.png" width="45%">
+</p>
+<p align="center">
+  <img src="images/3.png" width="30%">
+  <img src="images/4.png" width="45%">
+</p>
 
 ## Getting Started
 
