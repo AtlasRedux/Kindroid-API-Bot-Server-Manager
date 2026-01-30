@@ -1,4 +1,4 @@
-<img src="images/logo.png" alt="Main UI" width="700" align="center">
+<align="center" img src="images/logo.png" alt="Main UI" width="700">
 
 
 # Kindroid Bot Manager
