@@ -69,7 +69,7 @@ build.bat
 ### Twitch Bot Setup
 
 1. Create or use an existing Twitch account for your bot
-2. Generate an OAuth token at [twitchapps.com/tmi](https://twitchapps.com/tmi/) or similar
+2. Generate an OAuth token at [TwitchTokenGenerator](https://twitchtokengenerator.com/) or similar
 3. Enter your bot username, OAuth token, and target channel in the "Twitch" tab
 
 ## Usage
