@@ -125,6 +125,8 @@ The application creates these files in its directory:
 
 ## Troubleshooting
 
+# MOST OF THESE HAVE FAILSAFES IN THE APP, like auto-filling "oauth:" in front of token if missing.
+
 ### Discord bot not responding
 - Verify Message Content Intent is enabled in Discord Developer Portal
 - Check that the bot has permissions to read/send messages in the channel
