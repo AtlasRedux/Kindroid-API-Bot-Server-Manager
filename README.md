@@ -3,7 +3,7 @@
 
 
 
-
+<p align="center">
 # Kindroid Bot Manager
 <p align="left">
 
