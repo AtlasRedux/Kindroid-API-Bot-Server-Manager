@@ -25,7 +25,14 @@ A native Windows application that bridges your [Kindroid AI](https://kindroid.ai
 
 ## Screenshots
 
-*Coming soon*
+<p align="center">
+  <img src="images/1.png" width="45%">
+  <img src="images/2.png" width="45%">
+</p>
+<p align="center">
+  <img src="images/3.png" width="45%">
+  <img src="images/4.png" width="45%">
+</p>
 
 ## Getting Started
 
