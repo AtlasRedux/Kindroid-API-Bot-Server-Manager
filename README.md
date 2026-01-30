@@ -4,7 +4,9 @@
 
 # Kindroid Bot Manager
 <p align="right">
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-💖-purple)](https://www.buymeacoffee.com/atlasreduxt)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/atlasreduxt)
+
+
 
 
 A native Windows application that bridges your [Kindroid AI](https://kindroid.ai) character to Discord and Twitch chat platforms. Built entirely with native Windows APIs - no external dependencies required.
