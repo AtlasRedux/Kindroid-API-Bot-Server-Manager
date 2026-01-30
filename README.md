@@ -1,4 +1,5 @@
-![Main UI](images/logo.png)
+<img src="images/logo.png" alt="Main UI" width="700">
+
 
 # Kindroid Bot Manager
 
