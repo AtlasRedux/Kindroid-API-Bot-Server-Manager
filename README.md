@@ -3,10 +3,11 @@
 </p>
 
 # Kindroid Bot Manager
-[![Latest Release](https://img.shields.io/github/v/release/AtlasRedux/Kindroid-API-Bot-Server-Manager)](https://github.com/AtlasRedux/Kindroid-API-Bot-Server-Manager/releases/latest)
+
 
 A native Windows application that bridges your [Kindroid AI](https://kindroid.ai) character to Discord and Twitch chat platforms. Built entirely with native Windows APIs - no external dependencies required.
 
+[![Latest Release](https://img.shields.io/github/v/release/AtlasRedux/Kindroid-API-Bot-Server-Manager)](https://github.com/AtlasRedux/Kindroid-API-Bot-Server-Manager/releases/latest)
 ![Windows](https://img.shields.io/badge/Platform-Windows-blue)
 ![C++](https://img.shields.io/badge/Language-C++-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
